@@ -21,7 +21,7 @@
 
 # week 6
   begonnen aan Angularfire codelab
-  Nagedacht over 2 uur gokmodel en onderzoek naar gedaan
+  Nagedacht over gokmodel en onderzoek naar gedaan 2 uur
 
 # week 7
   1 uur simpele gokmodel gemaakt waarbij je bij winst dubbel terugkrijgt en bij verlies het aantal punten kwijtraakt
