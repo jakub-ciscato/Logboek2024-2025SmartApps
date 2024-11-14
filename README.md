@@ -28,4 +28,9 @@
   2 uur gebruikers uit firestore gehaald en deze in localstorage zetten met een bepaald puntenbedrag.<br />
   Hier zijn een paar problemen aan bod gekomen maar ik geloof dat ik deze kan oplossen aan de hand van de codelab.
   
-  
+  # week 8
+  30 minuten aan navigatie gewerkt om een hamburger menu te maken <br />
+  30 minuten user naar de localstorage met de nodige data + gokpunten
+  30 minuten anpassingen gedaan aan de profile pagina door gebruik te maken van de juistre user data met toevoegingen zoals het aanpassen van profielfoto en naam.
+  4 uur bezig geweest met het nadenken over het gokmodel te verbeteren en ook effectief het gokmodel verbeterd. Door een bt interface te maken
+  en gebruik te maken van hert oude punten systeem het is ook verbonden aan een gebruiker met zijn puntensaldo. Alleen moet er nog gewerkt worden aan het verbinden van het systeem met de matych dat eindigt.
