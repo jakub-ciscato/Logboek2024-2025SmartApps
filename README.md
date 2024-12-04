@@ -40,7 +40,7 @@
   3 uur bezig geweest met een cloudfunction dat controleert wanneer de status van een match veranderd naar finished en dan ook de bets berekend wanneer de status finished is en deze dan wegschrijft via een extra veld in de user authentication maar dit wil ik veranderen naar een user in firestore zelf.<br />
   1 uur bezig geweest met het oplossen van de permanente read problem dat kwam door de functie omdat hij bij elke kleine verandering een read deed. en dan opzoekeingen gedaan en ondervonden dat je niet op een specifieke veld een trigger kunt zetten.<br />
 
-# week 7
+# week 10
   4 uur bezig geweest met het oplossen van problemen omtrent het bijwerken van de functie uiteindelijk besloten om op een ander manier te doen anders dan cloud function op cloud function.<br />
   half uur bezig geweest met het oplossen van de functie aan de hand van een cloud function die een functie aanroept.<br />
   1 uur bezig geweest met testen van de functie en het betten.<br />
