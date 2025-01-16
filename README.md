@@ -47,26 +47,34 @@
   1 uur bezig geweest met testen van de functie en het betten.<br />
 
 # week 11 (12 december)
- 3 uur bezig geweest met het toevoegen van foutcontroles op bets en je kan niet meer betten op begonnen matches en matches dat al bezig waren.
- 1 uur gewerkt aan het laten inloggen en deze ingelogde gebruiker weg te schrijven naar de firestore met extra fields zoals de betsaldo en ook naar de localstorage
- 30 min testen gedaan voor zowel bets als login.
+ 3 uur bezig geweest met het toevoegen van foutcontroles op bets en je kan niet meer betten op begonnen matches en matches dat al bezig waren.<br />
+ 1 uur gewerkt aan het laten inloggen en deze ingelogde gebruiker weg te schrijven naar de firestore met extra fields zoals de betsaldo en ook naar de localstorage<br />
+ 30 min testen gedaan voor zowel bets als login.<br />
 
 # week 12 (19 december)
-1 uur gewerkt aan het effectieve wegschrijven van de bets bedragen naar user accounts en bet prediction naar winner id gezet.
-2 uur bezig geweest met het optimaliseren van de bet functie om zo min mogelijk calls te maken naar en van de firestore.
-1 uur beziggeweest met het maken van de bethistory page waar je kan doorklikken op de match om is te kijken.
-1 uur aan testing gedaan voor alles dat hier bescheven staat.
+1 uur gewerkt aan het effectieve wegschrijven van de bets bedragen naar user accounts en bet prediction naar winner id gezet.<br />
+2 uur bezig geweest met het optimaliseren van de bet functie om zo min mogelijk calls te maken naar en van de firestore.<br />
+1 uur beziggeweest met het maken van de bethistory page waar je kan doorklikken op de match om is te kijken.<br />
+1 uur aan testing gedaan voor alles dat hier bescheven staat.<br />
 
 # week 13 (9 januari)
-2 uur bezig geweest met merge conflicten
-2 uur bezig geweest met effectief wegschrijven van punten naar accounts aan de hand van payouts een draw feature toegevoegd om draw error te voorkomen.
-1 uur bezig geweest met het oplossen van betting op games met een speler en niet teams uiteindelijk besloten om betting voor deze games te dissabelen.
-1 uur bezig geweest met het weergeven van een nieuw user als hij voor de eerste keer met google inlogged als hij al bestaat word hij weergegeven.
+2 uur bezig geweest met merge conflicten<br />
+2 uur bezig geweest met effectief wegschrijven van punten naar accounts aan de hand van payouts een draw feature toegevoegd om draw error te voorkomen.<br />
+1 uur bezig geweest met het oplossen van betting op games met een speler en niet teams uiteindelijk besloten om betting voor deze games te dissabelen.<br />
+1 uur bezig geweest met het weergeven van een nieuw user als hij voor de eerste keer met google inlogged als hij al bestaat word hij weergegeven.<br />
 
 # week 14 (13 januarie voor de deadline)
-30 minuten bezig geweest met het implementeren van share api.
-1 uur bezig geweest met het oplossen van komende problemen dat zich hebeen veroorzaakt bij de profile page na de login daar naar om te zetten.
-30 minuten bezig geweest met save van profile ook weg te schrijven naar firebase en bettingsaldo laten zien op profile page.
-8 uur bezig geweest met het implementeren van de pushnotification api met firabse cloud messaging. hiervaan 3 uur informatie opgedaan. 1 uur de firabease token geimplementeerd om permissie te vragen voor push notifiactions en deze weg te schrijven bij de user en ook de implementatie om messages te krijgen. 2 uur testing gedaan om te zien of er effectief push notifications worden gestuurd dit heb ik gedaan aan de hand van verschillende manieren deze werkten niet tot ik de test van firebase zelf heb gevonden deze was redelijk vertopt omdat ze recent zijn overgegaan naar een nieuwe manier van cloud messaging. 1 uur samen met alex de functie geimplementeerd om notificaties aan te maken en dan te versturen specifiek als een bed van een match voo een user is afgesloten. 1 uur deze functie getest maar je moet labng wachten omdat je moet wachte op een pandascore api update op die match.
-links: https://www.youtube.com/watch?v=TNxJxOZWmHs , https://www.linkedin.com/pulse/integrating-firebase-push-notifications-angular-dhiki-fauzan-xijic?utm_source=share&utm_medium=member_android&utm_campaign=share_via , https://stackoverflow.com/questions/77727305/in-standalone-mode-how-to-i-import-a-module-in-angular-17 , https://firebase.google.com/docs/cloud-messaging/js/first-message
+30 minuten bezig geweest met het implementeren van share api.<br />
+1 uur bezig geweest met het oplossen van komende problemen dat zich hebeen veroorzaakt bij de profile page na de login daar naar om te zetten.<br />
+30 minuten bezig geweest met save van profile ook weg te schrijven naar firebase en bettingsaldo laten zien op profile page.<br />
+8 uur bezig geweest met het implementeren van de pushnotification api met firabse cloud messaging. hiervaan 3 uur informatie opgedaan. 1 uur de firabease token geimplementeerd om permissie te vragen voor push notifiactions en deze weg te schrijven bij de user en ook de implementatie om messages te krijgen.<br />
+2 uur testing gedaan om te zien of er effectief push notifications worden gestuurd dit heb ik gedaan aan de hand van verschillende manieren deze werkten niet tot ik de test van firebase zelf heb gevonden deze was redelijk vertopt omdat ze recent zijn overgegaan naar een nieuwe manier van cloud messaging.<br />
+1 uur samen met alex de functie geimplementeerd om notificaties aan te maken en dan te versturen specifiek als een bed van een match voo een user is afgesloten. 1 uur deze functie getest maar je moet labng wachten omdat je moet wachte op een pandascore api update op die match.<br />
+links: https://www.youtube.com/watch?v=TNxJxOZWmHs , https://www.linkedin.com/pulse/integrating-firebase-push-notifications-angular-dhiki-fauzan-xijic?utm_source=share&utm_medium=member_android&utm_campaign=share_via , https://stackoverflow.com/questions/77727305/in-standalone-mode-how-to-i-import-a-module-in-angular-17 , https://firebase.google.com/docs/cloud-messaging/js/first-message<br />
 
+# week 15 (16 januarie voor de deadline van documentatie)
+2 uur bezig geweest met optimalisatie van match page dingen zoals ui inlaad snelheid optimalisren en het gebruiken van lazy loading op iframe twitch stream maar dit verwijdert aangezien het niet helpte.<br />
+2 uur bezig geweest met het in kaart brengen van de klasse diagram.<br />
+1 uur bezig geweest met ERD maken dit duurde langer omdat ik moest uitzoeken hoe ik het wou doen omdat we geen gebruik maken van tabellen maar documenten en collecties.<br />
+1 uur bezig geweest met prsentaite in elkaar te steken samen met Alex.<br />
+2 uurtjes op het gemak gewerkt aan de andee delen van de documantatie.<br />
